@@ -2,6 +2,7 @@
 The repository contains all the source code, projects, problem sets, and additional resources to supplement your learning.
 
 Chapters: 
+
 Chapter 1: Variables, Constants & Keywords
 Learn how to declare and initialize variables in C.
 Understand different types of constants.
