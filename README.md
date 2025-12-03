@@ -1,4 +1,4 @@
-# CPP-Programs
+# C-Programs
 The repository contains all the source code, projects, problem sets, and additional resources to supplement your learning.
 
 Chapters: 
@@ -45,6 +45,3 @@ Chapter 10: File I/O
 Reading from and writing to files.
 Handling files using pointers.
 
-Chapter 11: Dynamic Memory Allocation
-malloc(), calloc(), realloc(), and free() functions.
-Managing dynamically allocated memory.
